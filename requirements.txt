@@ -1,9 +1,22 @@
-matplotlib==3.7.2
-notebook==7.0.7
+# GUI and Image Processing
+customtkinter==5.2.2
+pillow==10.3.0
+
+# Data Science and ML
 numpy==1.26.4
 pandas==2.2.2
-pillow==10.3.0
-mysql-connector-python==8.3.0
+matplotlib==3.7.2
 scikit-learn==1.5.2
-tensorflow==2.15.0
+
+# Deep Learning (PyTorch instead of TensorFlow)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
 opencv-python==4.10.0.84
+
+# Database
+mysql-connector-python==8.3.0
+
+# Jupyter Notebook
+notebook==7.0.7
