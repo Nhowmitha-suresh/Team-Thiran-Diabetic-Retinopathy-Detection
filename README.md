@@ -5,25 +5,6 @@
 
 </div>
 
----
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Key Features](#key-features)
-- [Technologies Used](#technologies-used)
-- [Installation & Setup](#installation--setup)
-- [How to Use](#how-to-use)
-- [Model Details](#model-details)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Doctors Directory](#doctors-directory)
-- [Future Enhancements](#future-enhancements)
-- [Team](#team)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## 🖼️ GUI Snapshots
 
 <div align="center">
@@ -254,8 +235,6 @@ All reviews are stored securely in the local SQLite database for quality improve
 ### 🔹 Team Lead
 **Adithya S**
 - Role: System Architecture, AI Workflow Planning, Project Coordination
-- Contact: adithya07@gmail.com
-
 ### 🔹 Core Contributors
 **Nhowmitha S**
 - Role: GUI Design, Preprocessing Pipeline, Model Integration, Evaluation
