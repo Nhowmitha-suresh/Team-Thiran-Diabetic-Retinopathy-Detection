@@ -1,0 +1,10 @@
+# Ignore large datasets and temporary files
+dataset/
+*.pt
+*.pkl
+*.csv
+__pycache__/
+*.log
+*.tmp
+.DS_Store
+venv/
